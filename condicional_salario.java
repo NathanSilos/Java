@@ -9,7 +9,7 @@ class Main {
     else if ((salario >= 3500) && (salario < 5000)){
       salario += 650;
     }
-    else (salario > 5000){
+    else {
       salario += 800;
     }
 
